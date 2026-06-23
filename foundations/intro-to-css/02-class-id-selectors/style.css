@@ -1,5 +1,6 @@
 .prime {
-    background-color: lightpink; font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: lightpink; 
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 .special {
     font-size: 24px;
@@ -11,5 +12,6 @@
 }
 
 #another {
-    background-color: lightgreen; font-size: 24px; font-weight: bold;
+    background-color: lightgreen; 
+    font-weight: bold;
 }
