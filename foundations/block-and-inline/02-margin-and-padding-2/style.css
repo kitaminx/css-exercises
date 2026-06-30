@@ -3,50 +3,36 @@ body {
   font-family: sans-serif;
 }
 
-.title,
-.card,
-.button-container,
-.button {
-  font-size: 16px;
-  
-} 
-
 .card {
   width: 400px;
   background: #fff;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 15px;
-  padding-bottom: 10px;
   margin: 16px auto;
+  padding: 8px;
 }
 
 .title {
   background: #e3f4ff;
-  padding: 10px;
+  margin-bottom: 8px;
+  padding: 8px;
+  font-size: 16px;
 }
 
 .content {
   background: #e3f4ff;
-  padding: 10px;
-  margin: 16px auto;
+  padding: 16px 8px;
+  margin-bottom: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
   text-align: center;
-  padding-left: 30px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 8px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 5px;
-  padding-top: 5px;
+  padding: 8px 24px;
   display: block;
-  margin-inline: auto;
+  margin: 0 auto;
 }
